@@ -24,7 +24,7 @@ If you have additional IPs to contribute (from your Wordfence installation or an
 ### **Contribution Steps:**
 
 1. Fork this repository.
-2. Add the new IPs to the `ips-blocklist.txt` or `ips-blocklist.json` file.
+2. Add the new IPs to the `ips-blocklist.txt` file.
 3. Submit a pull request with details about the IPs you've contributed.
 
 ## **Disclaimer**
