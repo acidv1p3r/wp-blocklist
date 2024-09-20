@@ -1,4 +1,14 @@
+[discord-badge]: https://discord.com/api/guilds/897156326776520736/widget.png?style=shield
+[discord-link]: https://discord.gg/RgZGCqKxAb
+
+<div align="center">
+
 # WP Admin IP Blocklist (Wordfence Export)
+
+[![Discord Server][discord-badge]][discord-link]  
+
+</div>  
+
 
 This repository contains a collection of IP addresses exported from the Wordfence Dashboard firewall. These IPs have been flagged for attempting unauthorized access to WordPress admin areas, primarily targeting `wp-admin` login attempts. The purpose of this blocklist is to help WordPress administrators easily re-import the list into their Wordfence security plugin to enhance protection.
 
